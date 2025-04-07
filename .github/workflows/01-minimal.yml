@@ -9,4 +9,4 @@ jobs:
       - name: Say Hello
         run: echo "Hello from GitHub"
       - name: Output date
-        run: echo $ (date)
+        run: echo $(date)
